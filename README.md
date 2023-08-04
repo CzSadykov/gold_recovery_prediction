@@ -1,3 +1,5 @@
+# Gold recovery prediction
+
 **Problem situation**: on the request for our customer we need to optimize production in order to successfully launch an industrial enterprise while avoiding losses.
 
 **Goal**: prepare a prototype of a machine learning model for the Tsifra company. The model should predict the recovery rate of gold from an ore.
